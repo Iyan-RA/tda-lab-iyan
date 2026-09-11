@@ -1,6 +1,6 @@
 # TDA Lab de Iyán
 
-**[2ºBachillerato-A] · Curso 2026-2027**
+**2ºBachillerato-A · Curso 2026-2027**
 
 Aquí dejare las tareas y demás cosas que haga durante el año escolar.
 
