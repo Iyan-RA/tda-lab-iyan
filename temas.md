@@ -12,11 +12,13 @@ Buscando en GitHub he encontrado [PerfumAPI](https://github.com/seccaz/PerfumAPI
 
 ---
 
-### Leo Messi
+###  02/10 · Premios Princesa de Asturias: Leo Messi
 
-Qué ha hecho: Messi ha desarrollado una trayectoria deportiva excepcional —el jurado destaca que es el jugador que más títulos ha conquistado en la historia del fútbol— y ha realizado una labor solidaria continuada para promover el acceso a la educación y el cuidado de la salud de los niños más desfavorecidos. También destaca su comportamiento dentro del campo, su constancia, humildad y compromiso con el juego colectivo.
+Qué ha hecho: Messi ha desarrollado una trayectoria deportiva excepcional (el jurado destaca que es el jugador que más títulos ha conquistado en la historia del fútbol) y ha realizado una labor solidaria continuada para promover el acceso a la educación y el cuidado de la salud de los niños más desfavorecidos. También destaca su comportamiento dentro del campo, su constancia, humildad y compromiso con el juego colectivo.
 
 Por qué le premian: el premio reconoce conjuntamente su talento y trayectoria deportiva y, de manera explícita, su labor solidaria en favor de niños desfavorecidos, especialmente en educación y salud. 
 
-[Fundación Princesa de Asturias](https://www.fpa.es/es/premios-princesa-de-asturias/premiados/2026-leo-messi/)
+[Su página en la Fundación](https://www.fpa.es/es/premios-princesa-de-asturias/premiados/2026-leo-messi/)
 
+![Leo Messi con la selección argentina](https://github.com/Iyan-RA/tda-lab-iyan/blob/main/capturas/koch.jpg)
+Imagen: Дмитрий Садовников, [Wikipedia Commons](https://commons.wikimedia.org/wiki/File:Lionel_Messi_2017.jpg)
