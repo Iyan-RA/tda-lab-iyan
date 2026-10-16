@@ -32,7 +32,7 @@ Ada Lovelace (1815-1852) fue una matemática y escritora británica, hija del po
 
 [Ada Lovelace en Wikipedia](https://es.wikipedia.org/wiki/Ada_Lovelace)
 
-![Fotografía de Ada](capturas/ada.png){: width="300"}
+![Fotografía de Ada](capturas/ada.png)
 
 *Imagen: Antoine Claudet, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ada_Lovelace_daguerreotype_by_Antoine_Claudet_1843_-_cropped.png)*
 
