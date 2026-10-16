@@ -30,13 +30,9 @@ Imagen: Дмитрий Садовников, [Wikipedia Commons](https://commons
 
 Ada Lovelace (1815-1852) fue una matemática y escritora británica, hija del poeta Lord Byron. En 1843, escribió instrucciones para la máquina analítica de Charles Babbage, por lo que se la considera una de las primeras programadoras de la historia. Su día se celebra para reconocer las aportaciones de las mujeres a la ciencia y la tecnología. El Día de Ada Lovelace se conmemora el segundo martes de octubre; en 2026, es el 13 de octubre. 
 
-Fuentes fiables para consultar:
+[Ada Lovelace en Wikipedia](https://es.wikipedia.org/wiki/Ada_Lovelace)
 
-[UNESCO: Ada Lovelace](https://www.unesco.org/es/virtual-science-museum/women-science/ada-lovelace) 
-
-[Universidad de St Andrews: biografía de Ada Lovelace](https://mathshistory.st-andrews.ac.uk/Biographies/Lovelace/)
-
-![Fotografía de Ada](capturas/ada.png)
+![Fotografía de Ada](capturas/ada.png){: width="300"}
 
 *Imagen: Antoine Claudet, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ada_Lovelace_daguerreotype_by_Antoine_Claudet_1843_-_cropped.png)*
 
