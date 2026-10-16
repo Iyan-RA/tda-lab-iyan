@@ -32,9 +32,9 @@ Ada Lovelace (1815-1852) fue una matemática y escritora británica, hija del po
 
 Fuentes fiables para consultar:
 
-UNESCO: Ada Lovelace 
+[UNESCO: Ada Lovelace](https://www.unesco.org/es/virtual-science-museum/women-science/ada-lovelace) 
 
-Universidad de St Andrews: biografía de Ada Lovelace
+[Universidad de St Andrews: biografía de Ada Lovelace](https://mathshistory.st-andrews.ac.uk/Biographies/Lovelace/)
 
 ![Fotografía de Ada](capturas/ada.png)
 
