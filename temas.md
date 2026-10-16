@@ -36,7 +36,7 @@ UNESCO: Ada Lovelace
 
 Universidad de St Andrews: biografía de Ada Lovelace
 
-![Fotografía de Ada](capturas/ada.png){: width="300"}
+![Fotografía de Ada](capturas/ada.png)
 *Imagen: Antoine Claudet, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ada_Lovelace_daguerreotype_by_Antoine_Claudet_1843_-_cropped.png)*
 
 ---
