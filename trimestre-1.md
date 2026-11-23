@@ -13,7 +13,7 @@
 
 - **Aplicación:** GitHub
 - **Entregado:** Enlace a temas en la web del Lab GitHub
-- **Qué hice:**  Hice una entrada en temas relacionada con los premios princesa
+- **Qué hice:** Hice una entrada en temas relacionada con los premios princesa
 
 ---
 ### 9/10 · U1_A1_EscribirEnPantalla
