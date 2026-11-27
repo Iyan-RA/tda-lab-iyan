@@ -45,7 +45,7 @@ La [Voyager 1 en Wikipedia](https://es.wikipedia.org/wiki/Voyager_1) es una sond
 | Dato | Voyager 1 |
 |---|---|
 | Lanzamiento | 5 de septiembre de 1977 |
-| Distancia a la Tierra | 25.900 millones de km aprox. |
+| Distancia a la Tierra | 25.900 millones de km aprox. (1 día luz) |
 | Velocidad | 61.000 km/h aprox. |
 | Lo que tarda su señal en llegar | 24 horas aprox |
 | Años de viaje | 49 años |
@@ -57,7 +57,7 @@ La [Voyager 1 en Wikipedia](https://es.wikipedia.org/wiki/Voyager_1) es una sond
 
 - **Lo que pondría:** Una fotografía de la Tierra, la canción Welcome to the Jungle de Guns N' Roses y la frase «Planeta Azul».
 - **En qué idioma:** Inglés y pictogramas.
-- **En qué formato:** Disco de oro.
+- **En qué formato:** Disco de oro, como el actual, para enseñar lo valioso que es el oro para el humano y que además sea tipo vinilo.
 
 ---
 
