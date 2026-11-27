@@ -51,7 +51,7 @@ La [Voyager 1 en Wikipedia](https://es.wikipedia.org/wiki/Voyager_1) es una sond
 | Años de viaje | 49 años |
 
 ![Representación artística de la Voyager 1](capturas/voyager.jpg){: width="300"}
-*PIE DE FOTO. Imagen: EASA/JPL, [Wikimedia Commons]((https://commons.wikimedia.org/wiki/File:Voyager_spacecraft.jpg))*
+*Imagen: EASA/JPL, [Wikimedia Commons]((https://commons.wikimedia.org/wiki/File:Voyager_spacecraft.jpg))*
 
 **Mi Disco de Oro 2026**
 
