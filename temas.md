@@ -37,3 +37,27 @@ Ada Lovelace (1815-1852) fue una matemática y escritora británica, hija del po
 *Imagen: Antoine Claudet, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ada_Lovelace_daguerreotype_by_Antoine_Claudet_1843_-_cropped.png)*
 
 ---
+
+### 27/11 · Voyager 1
+
+La [Voyager 1 en Wikipedia](https://es.wikipedia.org/wiki/Voyager_1) es una sonda espacial lanzada por la NASA en 1977 para explorar Júpiter y Saturno. Actualmente, es el objeto creado por el ser humano que se encuentra más lejos de la Tierra. En 2012 entró en el espacio interestelar y sigue viajando por el universo. Lleva un disco de oro con imágenes, sonidos y saludos de nuestro planeta por si alguna civilización extraterrestre lo encuentra.
+
+| Dato | Voyager 1 |
+|---|---|
+| Lanzamiento | | 5 de septiembre de 1977 |
+| Distancia a la Tierra | | 25.900 millones de km aprox. |
+| Velocidad | | 61.000 km/h aprox. |
+| Lo que tarda su señal en llegar | 24 horas aprox |
+| Años de viaje | | 49 años |
+
+![Representación artística de la Voyager 1](capturas/voyager.jpg){: width="300"}
+*PIE DE FOTO. Imagen: EASA/JPL, [Wikimedia Commons]((https://commons.wikimedia.org/wiki/File:Voyager_spacecraft.jpg))*
+
+**Mi Disco de Oro 2026**
+
+- **Lo que pondría:** Una fotografía de la Tierra, la canción Welcome to the Jungle de Guns N' Roses y la frase «Planeta Azul».
+- **En qué idioma:** Inglés y pictogramas.
+- **En qué formato:** Disco de oro.
+
+---
+
