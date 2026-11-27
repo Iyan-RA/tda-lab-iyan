@@ -65,3 +65,11 @@
 - **Qué hice:** Aprendí a definir funciones en Python
 
 ---
+
+### 27/11 · U0_A3-Voyager
+
+- **Aplicación:** Github
+- **Entregado:** Enlace a temas en la web del Lab GitHub
+- **Qué hice:** Hice una entrada en temas sobre la Voyager 1
+
+---
