@@ -44,11 +44,11 @@ La [Voyager 1 en Wikipedia](https://es.wikipedia.org/wiki/Voyager_1) es una sond
 
 | Dato | Voyager 1 |
 |---|---|
-| Lanzamiento | | 5 de septiembre de 1977 |
-| Distancia a la Tierra | | 25.900 millones de km aprox. |
-| Velocidad | | 61.000 km/h aprox. |
+| Lanzamiento | 5 de septiembre de 1977 |
+| Distancia a la Tierra | 25.900 millones de km aprox. |
+| Velocidad | 61.000 km/h aprox. |
 | Lo que tarda su señal en llegar | 24 horas aprox |
-| Años de viaje | | 49 años |
+| Años de viaje | 49 años |
 
 ![Representación artística de la Voyager 1](capturas/voyager.jpg){: width="300"}
 *PIE DE FOTO. Imagen: EASA/JPL, [Wikimedia Commons]((https://commons.wikimedia.org/wiki/File:Voyager_spacecraft.jpg))*
